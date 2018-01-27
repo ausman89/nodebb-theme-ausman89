@@ -1,7 +1,7 @@
 {
   "name": "nodebb-theme-quickstart-ausman89",
   "version": "0.0.1",
-  "description": "Custom quickstart with persona base 4.1.88",
+  "description": "Based off of persona 4.1.88 and nodebb 1.4.0",
   "main": "theme.less",
   "keywords": [
 
