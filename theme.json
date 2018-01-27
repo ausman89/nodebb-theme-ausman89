@@ -3,4 +3,5 @@
     "name": "nodebb-theme-quickstart-ausman89",
     "description": "Based off of persona 4.1.88 and nodebb 1.4.0",
     "url": "https://github.com/ausman89/nodebb-theme-quickstart-ausman89"
+    "baseTheme": "nodebb-theme-persona"
 }
