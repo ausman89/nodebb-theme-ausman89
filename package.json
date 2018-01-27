@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-theme-quickstart-ausman89",
+  "name": "nodebb-theme-ausman89",
   "version": "0.0.1",
   "description": "Based off of persona 4.1.88 and nodebb 1.4.0",
   "main": "theme.less",
