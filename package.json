@@ -9,5 +9,9 @@
   "nbbpm": {
     "compatibility": "^1.7.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ausman89/nodebb-theme-ausman89"
+  },
   "license": "MIT"
 }
