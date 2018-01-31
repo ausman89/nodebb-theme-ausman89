@@ -1,7 +1,7 @@
 {
     "id": "nodebb-theme-ausman89",
     "name": "nodebb-theme-ausman89",
-    "description": "Based off of persona 4.1.88 and nodebb 1.4.0",
+    "description": "Based off of persona theme with very minor tweaks.  Production site at meatgistics.waltonsinc.com",
     "url": "https://github.com/ausman89/nodebb-theme-ausman89",
     "baseTheme": "nodebb-theme-persona"
 }
