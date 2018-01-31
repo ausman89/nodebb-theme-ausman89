@@ -1,7 +1,7 @@
 {
   "name": "nodebb-theme-ausman89",
   "version": "0.0.2",
-  "description": "Based off of persona 7.2.20 and nodebb 1.7.4",
+  "description": "Based off of persona theme with very minor tweaks.  Production site at meatgistics.waltonsinc.com",
   "main": "theme.less",
   "keywords": [
 
